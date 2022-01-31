@@ -1,0 +1,16 @@
+# yarn
+yarn.lock
+.yarn/
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+
+node_modules
+.vscode
+dist
+build
+output.css
+storybook-static/
